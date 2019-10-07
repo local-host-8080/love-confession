@@ -33,7 +33,7 @@
 
 |页面名称|参考源|快速预览|下载地址|
 |:------:|:-------:|:------:|:------:|
-|01-炫酷3D表白页面|[源类库](https://github.com/impress/impress.js)|[预览](https://local-host-8080.github.io/love-confession/demo/01/index.html)|[下载](https://github.com/local-host-8080/love-confession/raw/master/src/01-炫酷3D表白页面)|
+|01-炫酷3D表白页面|[源类库](https://github.com/impress/impress.js)|[预览](https://local-host-8080.github.io/love-confession/demo/01/index.html)|[下载](https://github.com/local-host-8080/love-confession/raw/master/src/01-%E7%82%AB%E9%85%B73D%E8%A1%A8%E7%99%BD%E9%A1%B5%E9%9D%A2.rar)|
 
 <p align="center"><img src="images/end.gif" alt="The End"></p>
 
